@@ -8,3 +8,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 );
+
+{
+  /* <BrowserRouter basename="/https://github.com/OleksandrKambarov/goit-react-hw-05-movies">
+  <App />
+</BrowserRouter> */
+}
