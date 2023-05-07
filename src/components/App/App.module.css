@@ -3,7 +3,7 @@
   display: flex;
   column-gap: 10px;
   background-color: #ffffff;
-  border-bottom: 1px solid #0d253f;
+  border-bottom: 1px solid #350250;
 }
 
 .navLink {
@@ -23,6 +23,6 @@
 }
 
 .navLinkActive {
-  background-color: #0d253f;
+  background-color: #5b064b;
   color: #ffffff;
 }
