@@ -39,8 +39,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #0d253f;
-  background-image: linear-gradient(to left, #01b4e4, #90cea1);
+  color: #035e8f;
+  background-image: linear-gradient(to left, #7cf232, #b6ebc4);
 }
 
 code {
