@@ -1,0 +1,31 @@
+.form {
+  margin: 15px;
+  max-width: 300px;
+}
+
+.input {
+  padding: 5px;
+  outline: none;
+  margin-right: 5px;
+}
+
+.input,
+.btn {
+  color: #0d253f;
+  border: 1px solid #90cea1;
+  border-radius: 4px;
+  box-shadow: 2px 1px 5px #01b4e4;
+  height: 35px;
+}
+
+.btn {
+  width: 35px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn:hover,
+.btn:focus {
+  color: #90cea1;
+  background-color: #0d253f;
+}

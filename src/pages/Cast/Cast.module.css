@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  row-gap: 15px;
+  column-gap: 15px;
+}
+
+.item {
+  display: flex;
+  column-gap: 20px;
+}
+
+.img {
+  width: 100px;
+}
+
+.name{
+  margin-top: 15px;
+}
