@@ -11,7 +11,7 @@
 
 .input,
 .btn {
-  color: #0d253f;
+  color: #420604;
   border: 1px solid #90cea1;
   border-radius: 4px;
   box-shadow: 2px 1px 5px #01b4e4;
@@ -27,5 +27,5 @@
 .btn:hover,
 .btn:focus {
   color: #90cea1;
-  background-color: #0d253f;
+  background-color: #b5063e;
 }
